@@ -1,0 +1,2038 @@
+{
+  "clusters_found": 11,
+  "noise": 133,
+  "clusters": [
+    {
+      "id": 1,
+      "size": 8,
+      "centroid": {
+        "latitude": -12.797657857434062,
+        "longitude": -41.32504061255255
+      },
+      "area": 2444.4517475974117,
+      "perimeter": 300.99455213666675,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.3247743,
+              -12.7978986
+            ],
+            [
+              -41.3258324,
+              -12.7974291
+            ],
+            [
+              -41.3246294,
+              -12.7976138
+            ],
+            [
+              -41.3245845,
+              -12.7977529
+            ],
+            [
+              -41.3246523,
+              -12.7978272
+            ],
+            [
+              -41.3246976,
+              -12.7978551
+            ],
+            [
+              -41.3247743,
+              -12.7978986
+            ]
+          ]
+        ]
+      },
+      "start_date": "2025-11-13",
+      "end_date": "2025-11-25",
+      "environmental": {
+        "counts": {
+          "lixo": 6,
+          "esgoto": 1,
+          "mosquito": 1
+        },
+        "frequencies": {
+          "lixo": 0.75,
+          "esgoto": 0.125,
+          "mosquito": 0.125
+        },
+        "density": 0.0032727174949814383,
+        "normalized_density": 0.2678999731922016,
+        "score": 0.2678999731922016
+      },
+      "climate": {
+        "indicators": {
+          "temperature_mean": 25.315384615384616,
+          "humidity_mean": 69.23076923076923,
+          "precipitation_total": 175.2
+        },
+        "score": 0.7423735256687097
+      },
+      "risk": {
+        "score": 0.41024203893515404
+      },
+      "recommendation": {
+        "risk_level": "médio",
+        "recommendations": [
+          {
+            "id": 62,
+            "title": "Descarte de Embalagens em Parques Urbanos",
+            "message": "Use as lixeiras corretas ao visitar parques e praças públicas. Embalagens de sorvete, copos plásticos e garrafas jogadas na vegetação acumulam água da chuva e estragam o ambiente ecológico e a saúde da população.",
+            "source": "Organização Mundial da Saúde",
+            "risk_level": "médio",
+            "similarity": 0.8461,
+            "semantic_score": 0.7461,
+            "context_bonus": 0.1,
+            "ranking_score": 0.8461
+          },
+          {
+            "id": 65,
+            "title": "Manejo de Recicláveis em Condomínios",
+            "message": "Crie áreas cobertas para a central de reciclagem do condomínio residencial. A separação do lixo seco é uma atitude sustentável que deve ser acompanhada de cuidados para que nenhum recipiente acumule água enquanto aguarda a coleta seletiva.",
+            "source": "Ministério da Saúde",
+            "risk_level": "médio",
+            "similarity": 0.842,
+            "semantic_score": 0.742,
+            "context_bonus": 0.1,
+            "ranking_score": 0.842
+          },
+          {
+            "id": 42,
+            "title": "Atenção a Lixões Clandestinos em Terrenos",
+            "message": "Evite descartar resíduos sólidos em terrenos baldios. A combinação de embalagens plásticas, sacos abertos e pequenas poças d'água cria múltiplos criadouros em uma única área. Denuncie o descarte irregular à prefeitura e proteja seu bairro contra a dengue.",
+            "source": "Secretaria Municipal de Saúde",
+            "risk_level": "médio",
+            "similarity": 0.8309,
+            "semantic_score": 0.7309,
+            "context_bonus": 0.1,
+            "ranking_score": 0.8309
+          },
+          {
+            "id": 49,
+            "title": "Eliminação de Garrafas em Bares e Restaurantes",
+            "message": "Guarde garrafas de vidro e embalagens retornáveis viradas para baixo em caixas cobertas nos fundos do seu estabelecimento. O acúmulo de água de chuva no fundo de garrafas expostas cria dezenas de pequenos focos no ambiente comercial.",
+            "source": "Organização Mundial da Saúde",
+            "risk_level": "médio",
+            "similarity": 0.8082,
+            "semantic_score": 0.7082,
+            "context_bonus": 0.1,
+            "ranking_score": 0.8082
+          },
+          {
+            "id": 61,
+            "title": "Inspeção Sanitária em Ferro-Velho",
+            "message": "Proprietários de ferros-velhos devem organizar o material por tipologia e manter os recipientes com a boca virada para baixo. O monitoramento quinzenal por agentes ambientais garante a aplicação de larvicidas onde o controle mecânico é inviável.",
+            "source": "Fiocruz",
+            "risk_level": "médio",
+            "similarity": 0.8075,
+            "semantic_score": 0.7075,
+            "context_bonus": 0.1,
+            "ranking_score": 0.8075
+          }
+        ]
+      },
+      "reports": [
+        1590,
+        1554,
+        1504,
+        1503,
+        1501,
+        1500,
+        1496,
+        1495
+      ]
+    },
+    {
+      "id": 2,
+      "size": 6,
+      "centroid": {
+        "latitude": -12.592046933333334,
+        "longitude": -41.12608386666667
+      },
+      "area": 749.602954284778,
+      "perimeter": 241.0907574378357,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.1262269,
+              -12.5923646
+            ],
+            [
+              -41.1263283,
+              -12.5922993
+            ],
+            [
+              -41.1256964,
+              -12.5914769
+            ],
+            [
+              -41.1262269,
+              -12.5923646
+            ]
+          ]
+        ]
+      },
+      "start_date": "2025-11-15",
+      "end_date": "2025-11-24",
+      "environmental": {
+        "counts": {
+          "mosquito": 3,
+          "entulho": 2,
+          "lixo": 1
+        },
+        "frequencies": {
+          "mosquito": 0.5,
+          "entulho": 0.3333333333333333,
+          "lixo": 0.16666666666666666
+        },
+        "density": 0.008004237397549756,
+        "normalized_density": 0.7308275125237997,
+        "score": 0.7308275125237997
+      },
+      "climate": {
+        "indicators": {
+          "temperature_mean": 25.25,
+          "humidity_mean": 69.4,
+          "precipitation_total": 138
+        },
+        "score": 0.7285578910143169
+      },
+      "risk": {
+        "score": 0.7301466260709548
+      },
+      "recommendation": {
+        "risk_level": "alto",
+        "recommendations": [
+          {
+            "id": 82,
+            "title": "Eliminação Massiva de Focos em Entulhos",
+            "message": "Risco elevado! Terrenos com entulho e mato alto estão gerando uma alta infestação de Aedes aegypti. Solicite a remoção urgente dos resíduos e elimine qualquer recipiente que acumule água. Sintomas como dores no corpo e febre alta indicam necessidade de atendimento médico rápido.",
+            "source": "Secretaria Municipal de Saúde",
+            "risk_level": "alto",
+            "similarity": 0.9932,
+            "semantic_score": 0.8732,
+            "context_bonus": 0.12,
+            "ranking_score": 0.9932
+          },
+          {
+            "id": 104,
+            "title": "Mutirão de Limpeza em Margens de Rios e Córregos",
+            "message": "Ação comunitária urgente! Margens de rios e córregos repletas de lixo e entulho precisam de limpeza imediata. A eliminação desses depósitos reduz o risco de infecções e evita alagamentos devastadores na sua comunidade. Denuncie descarte irregular ao município.",
+            "source": "Secretaria Estadual de Saúde",
+            "risk_level": "alto",
+            "similarity": 0.9564,
+            "semantic_score": 0.8364,
+            "context_bonus": 0.12,
+            "ranking_score": 0.9564
+          },
+          {
+            "id": 83,
+            "title": "Ação Emergencial em Áreas com Esgoto a Céu Aberto",
+            "message": "Alerta sanitário! O esgoto a céu aberto acumulado nas vias públicas e misturado com lixo pluvial cria um ambiente de alto risco para a proliferação do mosquito da dengue. Exija manutenção urgente das autoridades e proteja suas janelas com telas ou repelente.",
+            "source": "Fiocruz",
+            "risk_level": "alto",
+            "similarity": 0.9508,
+            "semantic_score": 0.8308,
+            "context_bonus": 0.12,
+            "ranking_score": 0.9508
+          },
+          {
+            "id": 84,
+            "title": "Mobilização Comunitária em Comunidades Sem Coleta",
+            "message": "Ação urgente! Em locais com coleta irregular de lixo, mantenha os resíduos em sacos plásticos bem vedados e amarrados acima do solo. Participe dos pontos de recolhimento comunitário de inservíveis para barrar a explosão de casos de dengue na sua região.",
+            "source": "Organização Mundial da Saúde",
+            "risk_level": "alto",
+            "similarity": 0.9397,
+            "semantic_score": 0.8197,
+            "context_bonus": 0.12,
+            "ranking_score": 0.9397
+          },
+          {
+            "id": 91,
+            "title": "Mutirão de Remoção de Inservíveis em Praças",
+            "message": "Ação comunitária de urgência! Praças tomadas por lixo e mato alto exigem limpeza imediata para combater a epidemia de arboviroses. Una-se aos vizinhos e à prefeitura para recolher garrafas, sacos e móveis velhos descartados na vegetação do seu bairro.",
+            "source": "Vigilância em Saúde",
+            "risk_level": "alto",
+            "similarity": 0.9229,
+            "semantic_score": 0.8229,
+            "context_bonus": 0.1,
+            "ranking_score": 0.9229
+          }
+        ]
+      },
+      "reports": [
+        1589,
+        1532,
+        1531,
+        1530,
+        1529,
+        1528
+      ]
+    },
+    {
+      "id": 3,
+      "size": 6,
+      "centroid": {
+        "latitude": -12.794714267391823,
+        "longitude": -41.32962603470196
+      },
+      "area": 11224.435823313115,
+      "perimeter": 488.9593565550098,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.3302693,
+              -12.7951461
+            ],
+            [
+              -41.3304271,
+              -12.7943993
+            ],
+            [
+              -41.3289,
+              -12.7944352
+            ],
+            [
+              -41.3285964,
+              -12.7948127
+            ],
+            [
+              -41.3302693,
+              -12.7951461
+            ]
+          ]
+        ]
+      },
+      "start_date": "2025-11-17",
+      "end_date": "2025-11-23",
+      "environmental": {
+        "counts": {
+          "entulho": 2,
+          "esgoto": 2,
+          "vegetacao": 1,
+          "lixo": 1
+        },
+        "frequencies": {
+          "entulho": 0.3333333333333333,
+          "esgoto": 0.3333333333333333,
+          "vegetacao": 0.16666666666666666,
+          "lixo": 0.16666666666666666
+        },
+        "density": 0.0005345480249027769,
+        "normalized_density": 0,
+        "score": 0
+      },
+      "climate": {
+        "indicators": {
+          "temperature_mean": 24.75714285714286,
+          "humidity_mean": 74.28571428571429,
+          "precipitation_total": 148.6
+        },
+        "score": 0.763123037550273
+      },
+      "risk": {
+        "score": 0.2289369112650819
+      },
+      "recommendation": {
+        "risk_level": "baixo",
+        "recommendations": [
+          {
+            "id": 9,
+            "title": "Monitoramento de Lotes sem Edificação",
+            "message": "Proprietários de terrenos baldios limpos devem realizar vistorias mensais para impedir o descarte irregular de lixo por terceiros. O cercamento e a manutenção do solo capinado reduzem drasticamente as chances de surgimento de microfocos de mosquitos da dengue.",
+            "source": "Vigilância em Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.85,
+            "semantic_score": 0.75,
+            "context_bonus": 0.1,
+            "ranking_score": 0.85
+          },
+          {
+            "id": 14,
+            "title": "Gestão de Entulho em Pequenas Reformas",
+            "message": "Armazene resíduos de construção civil sob lonas impermeáveis e bem esticadas durante reformas residenciais. Evite o acúmulo de sacos de ráfia e baldes no quintal, promovendo o descarte rápido via caçambas credenciadas junto à prefeitura local.",
+            "source": "Vigilância em Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.8068,
+            "semantic_score": 0.7368,
+            "context_bonus": 0.07,
+            "ranking_score": 0.8068
+          },
+          {
+            "id": 17,
+            "title": "Descarte do Lixo Doméstico no Horário",
+            "message": "Coloque os sacos de lixo na calçada apenas próximo ao horário de coleta do caminhão. Evite que os sacos fiquem expostos a animais que possam rasgá-los, gerando recipientes plásticos espalhados aptos a acumular água da chuva.",
+            "source": "Secretaria Municipal de Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.8059,
+            "semantic_score": 0.7559,
+            "context_bonus": 0.05,
+            "ranking_score": 0.8059
+          },
+          {
+            "id": 39,
+            "title": "Descarte de Potes de Comida para Animais de Rua",
+            "message": "Retire e descarte potes plásticos e recipientes improvisados colocados na rua para alimentar animais abandonados após o uso. A intenção de cuidado não pode resultar em potenciais focos do mosquito após o período de chuvas.",
+            "source": "Secretaria Estadual de Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.7818,
+            "semantic_score": 0.7318,
+            "context_bonus": 0.05,
+            "ranking_score": 0.7818
+          },
+          {
+            "id": 27,
+            "title": "Descarte Consciente de Eletrodomésticos",
+            "message": "Encaminhe geladeiras, máquinas de lavar e eletrodomésticos velhos aos Ecopontos do município. Não abandone esses itens em vias públicas ou quintais, onde suas cavidades internas acumulam água e servem de criadouros perfeitos.",
+            "source": "Secretaria Estadual de Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.7765,
+            "semantic_score": 0.7265,
+            "context_bonus": 0.05,
+            "ranking_score": 0.7765
+          }
+        ]
+      },
+      "reports": [
+        1576,
+        1588,
+        1578,
+        1577,
+        1575,
+        1574
+      ]
+    },
+    {
+      "id": 4,
+      "size": 8,
+      "centroid": {
+        "latitude": -12.80645037593197,
+        "longitude": -41.33285777176382
+      },
+      "area": 8584.81579437519,
+      "perimeter": 408.0598086200189,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.3335709,
+              -12.8067581
+            ],
+            [
+              -41.3335581,
+              -12.8063915
+            ],
+            [
+              -41.3322919,
+              -12.8059674
+            ],
+            [
+              -41.3323095,
+              -12.8067364
+            ],
+            [
+              -41.3335709,
+              -12.8067581
+            ]
+          ]
+        ]
+      },
+      "start_date": "2025-11-14",
+      "end_date": "2025-11-16",
+      "environmental": {
+        "counts": {
+          "lixo": 3,
+          "esgoto": 5
+        },
+        "frequencies": {
+          "lixo": 0.375,
+          "esgoto": 0.625
+        },
+        "density": 0.0009318778866800655,
+        "normalized_density": 0.03887438687844945,
+        "score": 0.03887438687844945
+      },
+      "climate": {
+        "indicators": {
+          "temperature_mean": 26.400000000000002,
+          "humidity_mean": 57,
+          "precipitation_total": 78.80000000000001
+        },
+        "score": 0.5605957715639908
+      },
+      "risk": {
+        "score": 0.19539080228411185
+      },
+      "recommendation": {
+        "risk_level": "baixo",
+        "recommendations": [
+          {
+            "id": 17,
+            "title": "Descarte do Lixo Doméstico no Horário",
+            "message": "Coloque os sacos de lixo na calçada apenas próximo ao horário de coleta do caminhão. Evite que os sacos fiquem expostos a animais que possam rasgá-los, gerando recipientes plásticos espalhados aptos a acumular água da chuva.",
+            "source": "Secretaria Municipal de Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.8444,
+            "semantic_score": 0.7944,
+            "context_bonus": 0.05,
+            "ranking_score": 0.8444
+          },
+          {
+            "id": 39,
+            "title": "Descarte de Potes de Comida para Animais de Rua",
+            "message": "Retire e descarte potes plásticos e recipientes improvisados colocados na rua para alimentar animais abandonados após o uso. A intenção de cuidado não pode resultar em potenciais focos do mosquito após o período de chuvas.",
+            "source": "Secretaria Estadual de Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.8325,
+            "semantic_score": 0.7825,
+            "context_bonus": 0.05,
+            "ranking_score": 0.8325
+          },
+          {
+            "id": 24,
+            "title": "Gestão de Resíduos em Restaurantes",
+            "message": "Restaurantes e lanchonetes devem descartar latas de conserva e recipientes plásticos em sacos reforçados no ambiente interno até o momento do recolhimento. Jamais acumule embalagens abertas nos fundos do lote expostas ao tempo.",
+            "source": "Fiocruz",
+            "risk_level": "baixo",
+            "similarity": 0.8299,
+            "semantic_score": 0.7599,
+            "context_bonus": 0.07,
+            "ranking_score": 0.8299
+          },
+          {
+            "id": 14,
+            "title": "Gestão de Entulho em Pequenas Reformas",
+            "message": "Armazene resíduos de construção civil sob lonas impermeáveis e bem esticadas durante reformas residenciais. Evite o acúmulo de sacos de ráfia e baldes no quintal, promovendo o descarte rápido via caçambas credenciadas junto à prefeitura local.",
+            "source": "Vigilância em Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.8261,
+            "semantic_score": 0.7561,
+            "context_bonus": 0.07,
+            "ranking_score": 0.8261
+          },
+          {
+            "id": 16,
+            "title": "Limpeza Preventiva de Ralos Externos",
+            "message": "Aplique telas milimétricas nos ralos localizados em áreas abertas ou jogue água sanitária semanalmente nos recipientes com fecho hídrico. A medida impede que o Aedes aegypti e outros vetores utilizem a água parada do fundo do ralo para oviposição.",
+            "source": "Ministério da Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.8109,
+            "semantic_score": 0.7609,
+            "context_bonus": 0.05,
+            "ranking_score": 0.8109
+          }
+        ]
+      },
+      "reports": [
+        1547,
+        1546,
+        1545,
+        1544,
+        1543,
+        1542,
+        1510,
+        1507
+      ]
+    },
+    {
+      "id": 5,
+      "size": 17,
+      "centroid": {
+        "latitude": -12.224390289400143,
+        "longitude": -38.96091853085602
+      },
+      "area": 1580.5994524088987,
+      "perimeter": 178.210742674839,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.96085188225461,
+              -12.224668728405915
+            ],
+            [
+              -38.96111700141709,
+              -12.224536471789703
+            ],
+            [
+              -38.96091645506714,
+              -12.223995119646906
+            ],
+            [
+              -38.9607693665702,
+              -12.22433939621906
+            ],
+            [
+              -38.9608002,
+              -12.2246535
+            ],
+            [
+              -38.9608025,
+              -12.2246565
+            ],
+            [
+              -38.9608049,
+              -12.2246581
+            ],
+            [
+              -38.96085188225461,
+              -12.224668728405915
+            ]
+          ]
+        ]
+      },
+      "start_date": "2025-10-07",
+      "end_date": "2025-10-07",
+      "environmental": {
+        "counts": {
+          "entulho": 4,
+          "vegetacao": 3,
+          "lixo": 6,
+          "mosquito": 3,
+          "esgoto": 1
+        },
+        "frequencies": {
+          "entulho": 0.23529411764705882,
+          "vegetacao": 0.17647058823529413,
+          "lixo": 0.35294117647058826,
+          "mosquito": 0.17647058823529413,
+          "esgoto": 0.058823529411764705
+        },
+        "density": 0.010755413064385983,
+        "normalized_density": 1,
+        "score": 1
+      },
+      "climate": {
+        "indicators": {
+          "temperature_mean": 24.2,
+          "humidity_mean": 73,
+          "precipitation_total": 33.99999999999999
+        },
+        "score": 0.4814184134456733
+      },
+      "risk": {
+        "score": 0.844425524033702
+      },
+      "recommendation": {
+        "risk_level": "alto",
+        "recommendations": [
+          {
+            "id": 82,
+            "title": "Eliminação Massiva de Focos em Entulhos",
+            "message": "Risco elevado! Terrenos com entulho e mato alto estão gerando uma alta infestação de Aedes aegypti. Solicite a remoção urgente dos resíduos e elimine qualquer recipiente que acumule água. Sintomas como dores no corpo e febre alta indicam necessidade de atendimento médico rápido.",
+            "source": "Secretaria Municipal de Saúde",
+            "risk_level": "alto",
+            "similarity": 1.0174,
+            "semantic_score": 0.8474,
+            "context_bonus": 0.17,
+            "ranking_score": 1.0174
+          },
+          {
+            "id": 83,
+            "title": "Ação Emergencial em Áreas com Esgoto a Céu Aberto",
+            "message": "Alerta sanitário! O esgoto a céu aberto acumulado nas vias públicas e misturado com lixo pluvial cria um ambiente de alto risco para a proliferação do mosquito da dengue. Exija manutenção urgente das autoridades e proteja suas janelas com telas ou repelente.",
+            "source": "Fiocruz",
+            "risk_level": "alto",
+            "similarity": 1.0047,
+            "semantic_score": 0.8147,
+            "context_bonus": 0.19,
+            "ranking_score": 1.0047
+          },
+          {
+            "id": 118,
+            "title": "Ação Contra o Acúmulo de Lixo em Escolas",
+            "message": "Urgente! Escolas públicas devem remover imediatamente entulhos e sacos de lixo acumulados nos pátios traseiros. Locais de permanência de crianças precisam ser mantidos 100% livres de vetores durante os períodos de surto de arboviroses na cidade.",
+            "source": "Fiocruz",
+            "risk_level": "alto",
+            "similarity": 0.967,
+            "semantic_score": 0.847,
+            "context_bonus": 0.12,
+            "ranking_score": 0.967
+          },
+          {
+            "id": 116,
+            "title": "Corte Emergencial de Vegetação em Vias Públicas",
+            "message": "Urgente! Solicite o corte do mato alto nas margens de ruas e avenidas do seu bairro. A vegetação densa acumula latas, copos plásticos e sacos de lixo atirados por motoristas, criando focos invisíveis do mosquito da dengue nas vias urbanas.",
+            "source": "Secretaria Estadual de Saúde",
+            "risk_level": "alto",
+            "similarity": 0.9561,
+            "semantic_score": 0.8061,
+            "context_bonus": 0.15,
+            "ranking_score": 0.9561
+          },
+          {
+            "id": 104,
+            "title": "Mutirão de Limpeza em Margens de Rios e Córregos",
+            "message": "Ação comunitária urgente! Margens de rios e córregos repletas de lixo e entulho precisam de limpeza imediata. A eliminação desses depósitos reduz o risco de infecções e evita alagamentos devastadores na sua comunidade. Denuncie descarte irregular ao município.",
+            "source": "Secretaria Estadual de Saúde",
+            "risk_level": "alto",
+            "similarity": 0.9311,
+            "semantic_score": 0.8111,
+            "context_bonus": 0.12,
+            "ranking_score": 0.9311
+          }
+        ]
+      },
+      "reports": [
+        1484,
+        1480,
+        1479,
+        1478,
+        1476,
+        1475,
+        1474,
+        1473,
+        1471,
+        1468,
+        1467,
+        1465,
+        1460,
+        1458,
+        1457,
+        1454,
+        1453
+      ]
+    },
+    {
+      "id": 6,
+      "size": 103,
+      "centroid": {
+        "latitude": -12.239727098335727,
+        "longitude": -38.96880380147235
+      },
+      "area": 107295.31175487833,
+      "perimeter": 1308.044725356574,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.96935535694024,
+              -12.241281449566802
+            ],
+            [
+              -38.97096812725067,
+              -12.240361376752876
+            ],
+            [
+              -38.970939774194775,
+              -12.24019623897244
+            ],
+            [
+              -38.97066806356283,
+              -12.238817579453025
+            ],
+            [
+              -38.96782994270325,
+              -12.238495051704412
+            ],
+            [
+              -38.96668195724488,
+              -12.238379716577754
+            ],
+            [
+              -38.96683484315873,
+              -12.24004420727452
+            ],
+            [
+              -38.96777927055186,
+              -12.24075605966283
+            ],
+            [
+              -38.96935535694024,
+              -12.241281449566802
+            ]
+          ]
+        ]
+      },
+      "start_date": "2025-10-01",
+      "end_date": "2025-10-01",
+      "environmental": {
+        "counts": {
+          "lixo": 30,
+          "esgoto": 16,
+          "entulho": 21,
+          "vegetacao": 34,
+          "alagamento": 2
+        },
+        "frequencies": {
+          "lixo": 0.2912621359223301,
+          "esgoto": 0.1553398058252427,
+          "entulho": 0.20388349514563106,
+          "vegetacao": 0.3300970873786408,
+          "alagamento": 0.019417475728155338
+        },
+        "density": 0.0009599673864158091,
+        "normalized_density": 0.04162263760157649,
+        "score": 0.04162263760157649
+      },
+      "climate": {
+        "indicators": {
+          "temperature_mean": 22.8,
+          "humidity_mean": 72,
+          "precipitation_total": 38.1
+        },
+        "score": 0.42584879745424703
+      },
+      "risk": {
+        "score": 0.15689048555737767
+      },
+      "recommendation": {
+        "risk_level": "baixo",
+        "recommendations": [
+          {
+            "id": 9,
+            "title": "Monitoramento de Lotes sem Edificação",
+            "message": "Proprietários de terrenos baldios limpos devem realizar vistorias mensais para impedir o descarte irregular de lixo por terceiros. O cercamento e a manutenção do solo capinado reduzem drasticamente as chances de surgimento de microfocos de mosquitos da dengue.",
+            "source": "Vigilância em Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.8829,
+            "semantic_score": 0.7829,
+            "context_bonus": 0.1,
+            "ranking_score": 0.8829
+          },
+          {
+            "id": 40,
+            "title": "Vistoria em Obras de Infraestrutura Viária",
+            "message": "Empresas de engenharia devem manter poços de drenagem temporários e manilhas estocadas na horizontal para evitar o represamento de água da chuva. O canteiro de obras viárias deve possuir plano de controle de pragas ativo.",
+            "source": "Organização Mundial da Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.8594,
+            "semantic_score": 0.7594,
+            "context_bonus": 0.1,
+            "ranking_score": 0.8594
+          },
+          {
+            "id": 26,
+            "title": "Adoção de Práticas de Compostagem Segura",
+            "message": "Compostagens domésticas devem ser mantidas cobertas e com controle rigoroso de umidade para não gerar acúmulo de líquido livre. O manejo adequado transforma resíduos orgânicos sem criar ambientes favoráveis para mosquitos e pragas urbanas.",
+            "source": "Ministério da Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.8585,
+            "semantic_score": 0.7585,
+            "context_bonus": 0.1,
+            "ranking_score": 0.8585
+          },
+          {
+            "id": 14,
+            "title": "Gestão de Entulho em Pequenas Reformas",
+            "message": "Armazene resíduos de construção civil sob lonas impermeáveis e bem esticadas durante reformas residenciais. Evite o acúmulo de sacos de ráfia e baldes no quintal, promovendo o descarte rápido via caçambas credenciadas junto à prefeitura local.",
+            "source": "Vigilância em Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.8466,
+            "semantic_score": 0.7766,
+            "context_bonus": 0.07,
+            "ranking_score": 0.8466
+          },
+          {
+            "id": 17,
+            "title": "Descarte do Lixo Doméstico no Horário",
+            "message": "Coloque os sacos de lixo na calçada apenas próximo ao horário de coleta do caminhão. Evite que os sacos fiquem expostos a animais que possam rasgá-los, gerando recipientes plásticos espalhados aptos a acumular água da chuva.",
+            "source": "Secretaria Municipal de Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.8099,
+            "semantic_score": 0.7599,
+            "context_bonus": 0.05,
+            "ranking_score": 0.8099
+          }
+        ]
+      },
+      "reports": [
+        1445,
+        1449,
+        1444,
+        1443,
+        1441,
+        1438,
+        1432,
+        1434,
+        1446,
+        1430,
+        1435,
+        1414,
+        1410,
+        1413,
+        1412,
+        1407,
+        1404,
+        1415,
+        1411,
+        1397,
+        1391,
+        1394,
+        1386,
+        1382,
+        1385,
+        1388,
+        1378,
+        1379,
+        1369,
+        1370,
+        1376,
+        1375,
+        1362,
+        1359,
+        1364,
+        1358,
+        1354,
+        1374,
+        1351,
+        1355,
+        1348,
+        1346,
+        1350,
+        1353,
+        1345,
+        1347,
+        1342,
+        1341,
+        1340,
+        1335,
+        1343,
+        1332,
+        1327,
+        1328,
+        1326,
+        1324,
+        1330,
+        1333,
+        1322,
+        1313,
+        1312,
+        1406,
+        1426,
+        1395,
+        1416,
+        1409,
+        1393,
+        1314,
+        1419,
+        1402,
+        1396,
+        1383,
+        1360,
+        1344,
+        1323,
+        1315,
+        1442,
+        1424,
+        1422,
+        1420,
+        1401,
+        1403,
+        1366,
+        1352,
+        1321,
+        1400,
+        1390,
+        1316,
+        1373,
+        1447,
+        1387,
+        1384,
+        1380,
+        1372,
+        1368,
+        1367,
+        1365,
+        1361,
+        1363,
+        1357,
+        1339,
+        1319,
+        1439
+      ]
+    },
+    {
+      "id": 7,
+      "size": 113,
+      "centroid": {
+        "latitude": -12.249322614373538,
+        "longitude": -38.95775798617395
+      },
+      "area": 21897.852957619623,
+      "perimeter": 605.3783865449111,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.958345651626594,
+              -12.250290423630384
+            ],
+            [
+              -38.95822763442993,
+              -12.248665314803366
+            ],
+            [
+              -38.958198130130775,
+              -12.248445137998985
+            ],
+            [
+              -38.95819544792176,
+              -12.248445137998985
+            ],
+            [
+              -38.957369327545166,
+              -12.248460864919677
+            ],
+            [
+              -38.95723521709443,
+              -12.248494939911286
+            ],
+            [
+              -38.957162797451026,
+              -12.248683662862108
+            ],
+            [
+              -38.95717084407807,
+              -12.248809478087685
+            ],
+            [
+              -38.95726203918458,
+              -12.25005976363209
+            ],
+            [
+              -38.958345651626594,
+              -12.250290423630384
+            ]
+          ]
+        ]
+      },
+      "start_date": "2025-09-23",
+      "end_date": "2025-09-24",
+      "environmental": {
+        "counts": {
+          "entulho": 14,
+          "lixo": 34,
+          "esgoto": 14,
+          "mosquito": 10,
+          "vegetacao": 39,
+          "alagamento": 2
+        },
+        "frequencies": {
+          "entulho": 0.12389380530973451,
+          "lixo": 0.3008849557522124,
+          "esgoto": 0.12389380530973451,
+          "mosquito": 0.08849557522123894,
+          "vegetacao": 0.34513274336283184,
+          "alagamento": 0.017699115044247787
+        },
+        "density": 0.005160323261768925,
+        "normalized_density": 0.4525815788582254,
+        "score": 0.4525815788582254
+      },
+      "climate": {
+        "indicators": {
+          "temperature_mean": 24.95,
+          "humidity_mean": 72.5,
+          "precipitation_total": 49.00000000000001
+        },
+        "score": 0.5466720195533649
+      },
+      "risk": {
+        "score": 0.48080871106676726
+      },
+      "recommendation": {
+        "risk_level": "médio",
+        "recommendations": [
+          {
+            "id": 73,
+            "title": "Gestão de Entulho em Loteamentos Novos",
+            "message": "Empresas urbanizadoras devem recolher os resíduos de alvenaria e plásticos abandonados nas vias de loteamentos recém-abertos. O mato alto combinado com lixo e entulho cria microambientes favoráveis à proliferação silenciosa do Aedes.",
+            "source": "Organização Mundial da Saúde",
+            "risk_level": "médio",
+            "similarity": 0.9866,
+            "semantic_score": 0.8166,
+            "context_bonus": 0.17,
+            "ranking_score": 0.9866
+          },
+          {
+            "id": 52,
+            "title": "Manejo de Entulho em Margens de Córregos",
+            "message": "Evite o descarte de entulhos e restos de móveis nas margens de rios e córregos. O acúmulo de inservíveis represas a água pluvial e cria focos da dengue, além de provocar o assoreamento do leito e alagamentos futuros na comunidade.",
+            "source": "Vigilância em Saúde",
+            "risk_level": "médio",
+            "similarity": 0.9797,
+            "semantic_score": 0.7897,
+            "context_bonus": 0.19,
+            "ranking_score": 0.9797
+          },
+          {
+            "id": 46,
+            "title": "Limpeza de Ralos e Grelhas na Praça",
+            "message": "Solicite a limpeza preventiva de ralos e grelhas em praças e parques da cidade. O entupimento com folhagem gera retenção de água e esgoto superficial, atraindo mosquitos e prejudicando os momentos de lazer da população no bairro.",
+            "source": "Secretaria Municipal de Saúde",
+            "risk_level": "médio",
+            "similarity": 0.9167,
+            "semantic_score": 0.7667,
+            "context_bonus": 0.15,
+            "ranking_score": 0.9167
+          },
+          {
+            "id": 55,
+            "title": "Cuidados com Bambuzais e Buracos em Árvores",
+            "message": "Preencha furos em troncos de árvores e nós de bambu com areia ou terra nas praças e quintais. Esses pequenos nichos naturais acumulam água de chuva e servem como criadouros silenciosos para o vetor da dengue em áreas verdes.",
+            "source": "Fiocruz",
+            "risk_level": "médio",
+            "similarity": 0.8625,
+            "semantic_score": 0.7625,
+            "context_bonus": 0.1,
+            "ranking_score": 0.8625
+          },
+          {
+            "id": 41,
+            "title": "Limpeza de Calhas Entupidas no Outono",
+            "message": "Inspecione e limpe as calhas do seu imóvel com urgência. O acúmulo de folhas misturado com as primeiras chuvas pode reter grandes volumes de água em locais elevados, tornando-se o ambiente ideal para a reprodução massiva do mosquito Aedes aegypti.",
+            "source": "Ministério da Saúde",
+            "risk_level": "médio",
+            "similarity": 0.8552,
+            "semantic_score": 0.7552,
+            "context_bonus": 0.1,
+            "ranking_score": 0.8552
+          }
+        ]
+      },
+      "reports": [
+        1301,
+        1300,
+        1299,
+        1304,
+        1298,
+        1303,
+        1294,
+        1292,
+        1295,
+        1297,
+        1291,
+        1296,
+        1289,
+        1290,
+        1287,
+        1293,
+        1281,
+        1286,
+        1277,
+        1279,
+        1280,
+        1275,
+        1276,
+        1274,
+        1272,
+        1269,
+        1271,
+        1263,
+        1265,
+        1259,
+        1266,
+        1253,
+        1247,
+        1249,
+        1244,
+        1243,
+        1245,
+        1246,
+        1242,
+        1233,
+        1239,
+        1236,
+        1235,
+        1234,
+        1229,
+        1227,
+        1222,
+        1230,
+        1223,
+        1224,
+        1221,
+        1219,
+        1217,
+        1218,
+        1216,
+        1211,
+        1208,
+        1207,
+        1212,
+        1204,
+        1203,
+        1200,
+        1198,
+        1196,
+        1199,
+        1201,
+        1190,
+        1188,
+        1189,
+        1185,
+        1183,
+        1182,
+        1179,
+        1175,
+        1174,
+        1172,
+        1173,
+        1170,
+        1167,
+        1166,
+        1165,
+        1163,
+        1162,
+        1161,
+        1160,
+        1155,
+        1154,
+        1153,
+        1147,
+        1148,
+        1146,
+        1152,
+        1158,
+        1142,
+        1138,
+        1133,
+        1139,
+        1137,
+        1130,
+        1126,
+        1118,
+        1119,
+        1120,
+        1115,
+        1111,
+        1113,
+        1110,
+        1108,
+        1116,
+        1105,
+        1102,
+        1157,
+        1150
+      ]
+    },
+    {
+      "id": 8,
+      "size": 146,
+      "centroid": {
+        "latitude": -11.095964964464295,
+        "longitude": -43.15017332114082
+      },
+      "area": 61339.34933076175,
+      "perimeter": 941.2526659408039,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.15089583396912,
+              -11.097282656177386
+            ],
+            [
+              -43.15099775791168,
+              -11.097256335611034
+            ],
+            [
+              -43.15110236406327,
+              -11.097211590642782
+            ],
+            [
+              -43.151593208312995,
+              -11.096124549014284
+            ],
+            [
+              -43.150634999409434,
+              -11.09493321306472
+            ],
+            [
+              -43.150434494018555,
+              -11.094703229403173
+            ],
+            [
+              -43.149876594543464,
+              -11.094603210355327
+            ],
+            [
+              -43.148707151412964,
+              -11.095145418467574
+            ],
+            [
+              -43.14946629531794,
+              -11.096953824337113
+            ],
+            [
+              -43.150370121002204,
+              -11.09726686383785
+            ],
+            [
+              -43.15089583396912,
+              -11.097282656177386
+            ]
+          ]
+        ]
+      },
+      "start_date": "2024-11-12",
+      "end_date": "2024-11-12",
+      "environmental": {
+        "counts": {
+          "lixo": 33,
+          "alagamento": 28,
+          "vegetacao": 9,
+          "esgoto": 33,
+          "entulho": 27,
+          "mosquito": 16
+        },
+        "frequencies": {
+          "lixo": 0.22602739726027396,
+          "alagamento": 0.1917808219178082,
+          "vegetacao": 0.06164383561643835,
+          "esgoto": 0.22602739726027396,
+          "entulho": 0.18493150684931506,
+          "mosquito": 0.1095890410958904
+        },
+        "density": 0.0023802013160054967,
+        "normalized_density": 0.18057701417374755,
+        "score": 0.18057701417374755
+      },
+      "climate": {
+        "indicators": {
+          "temperature_mean": 25.3,
+          "humidity_mean": 80,
+          "precipitation_total": 71.19999999999999
+        },
+        "score": 0.6968977040148076
+      },
+      "risk": {
+        "score": 0.33547322112606554
+      },
+      "recommendation": {
+        "risk_level": "médio",
+        "recommendations": [
+          {
+            "id": 52,
+            "title": "Manejo de Entulho em Margens de Córregos",
+            "message": "Evite o descarte de entulhos e restos de móveis nas margens de rios e córregos. O acúmulo de inservíveis represas a água pluvial e cria focos da dengue, além de provocar o assoreamento do leito e alagamentos futuros na comunidade.",
+            "source": "Vigilância em Saúde",
+            "risk_level": "médio",
+            "similarity": 1.0148,
+            "semantic_score": 0.8248,
+            "context_bonus": 0.19,
+            "ranking_score": 1.0148
+          },
+          {
+            "id": 73,
+            "title": "Gestão de Entulho em Loteamentos Novos",
+            "message": "Empresas urbanizadoras devem recolher os resíduos de alvenaria e plásticos abandonados nas vias de loteamentos recém-abertos. O mato alto combinado com lixo e entulho cria microambientes favoráveis à proliferação silenciosa do Aedes.",
+            "source": "Organização Mundial da Saúde",
+            "risk_level": "médio",
+            "similarity": 0.9936,
+            "semantic_score": 0.8236,
+            "context_bonus": 0.17,
+            "ranking_score": 0.9936
+          },
+          {
+            "id": 46,
+            "title": "Limpeza de Ralos e Grelhas na Praça",
+            "message": "Solicite a limpeza preventiva de ralos e grelhas em praças e parques da cidade. O entupimento com folhagem gera retenção de água e esgoto superficial, atraindo mosquitos e prejudicando os momentos de lazer da população no bairro.",
+            "source": "Secretaria Municipal de Saúde",
+            "risk_level": "médio",
+            "similarity": 0.9423,
+            "semantic_score": 0.7923,
+            "context_bonus": 0.15,
+            "ranking_score": 0.9423
+          },
+          {
+            "id": 57,
+            "title": "Atenção a Lajes sem Inclinacao",
+            "message": "Adicione drenos ou remova a água parada sobre lajes planas sem inclinação adequada. A evaporação lenta após as chuvas cria uma grande superfície propícia para a postura de ovos e desenvolvimento das larvas do Aedes.",
+            "source": "Secretaria Municipal de Saúde",
+            "risk_level": "médio",
+            "similarity": 0.9002,
+            "semantic_score": 0.8002,
+            "context_bonus": 0.1,
+            "ranking_score": 0.9002
+          },
+          {
+            "id": 69,
+            "title": "Manutenção de Barcos e Flutuantes em Portos",
+            "message": "Realize o esgotamento constante da água da chuva acumulada no fundo de barcos, canoas e flutuantes nas áreas portuárias. A mistura de água doce de chuva com resíduos cria áreas propícias para a multiplicação do mosquito Aedes aegypti.",
+            "source": "Vigilância em Saúde",
+            "risk_level": "médio",
+            "similarity": 0.8867,
+            "semantic_score": 0.7867,
+            "context_bonus": 0.1,
+            "ranking_score": 0.8867
+          }
+        ]
+      },
+      "reports": [
+        629,
+        630,
+        626,
+        625,
+        614,
+        616,
+        611,
+        607,
+        610,
+        606,
+        601,
+        597,
+        598,
+        593,
+        590,
+        589,
+        587,
+        580,
+        577,
+        576,
+        574,
+        573,
+        569,
+        563,
+        562,
+        560,
+        558,
+        557,
+        553,
+        551,
+        549,
+        546,
+        542,
+        543,
+        538,
+        536,
+        534,
+        530,
+        529,
+        525,
+        517,
+        516,
+        511,
+        509,
+        505,
+        501,
+        493,
+        491,
+        488,
+        485,
+        481,
+        480,
+        479,
+        477,
+        473,
+        455,
+        457,
+        456,
+        454,
+        444,
+        440,
+        442,
+        452,
+        445,
+        439,
+        431,
+        432,
+        435,
+        447,
+        425,
+        426,
+        427,
+        422,
+        421,
+        418,
+        417,
+        411,
+        415,
+        414,
+        416,
+        412,
+        409,
+        407,
+        405,
+        403,
+        404,
+        387,
+        386,
+        397,
+        401,
+        402,
+        399,
+        380,
+        364,
+        362,
+        359,
+        353,
+        357,
+        361,
+        360,
+        354,
+        358,
+        355,
+        627,
+        623,
+        619,
+        620,
+        618,
+        609,
+        612,
+        595,
+        586,
+        584,
+        572,
+        570,
+        571,
+        545,
+        544,
+        535,
+        483,
+        463,
+        461,
+        460,
+        459,
+        458,
+        462,
+        400,
+        608,
+        605,
+        600,
+        592,
+        588,
+        564,
+        559,
+        548,
+        547,
+        489,
+        472,
+        471,
+        470,
+        469,
+        468,
+        467,
+        466,
+        465,
+        464
+      ]
+    },
+    {
+      "id": 9,
+      "size": 16,
+      "centroid": {
+        "latitude": -12.797552949534216,
+        "longitude": -41.3254873196923
+      },
+      "area": 25928.95319077771,
+      "perimeter": 778.3944477909602,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -41.32554531097413,
+              -12.79876566670452
+            ],
+            [
+              -41.326092481613166,
+              -12.797248633172016
+            ],
+            [
+              -41.326146125793464,
+              -12.796882451297202
+            ],
+            [
+              -41.32627487182618,
+              -12.795857139219835
+            ],
+            [
+              -41.3246256,
+              -12.7978209
+            ],
+            [
+              -41.3248372077942,
+              -12.798535496686755
+            ],
+            [
+              -41.32554531097413,
+              -12.79876566670452
+            ]
+          ]
+        ]
+      },
+      "start_date": "2024-10-16",
+      "end_date": "2024-10-16",
+      "environmental": {
+        "counts": {
+          "entulho": 1,
+          "vegetacao": 9,
+          "lixo": 5,
+          "mosquito": 1
+        },
+        "frequencies": {
+          "entulho": 0.0625,
+          "vegetacao": 0.5625,
+          "lixo": 0.3125,
+          "mosquito": 0.0625
+        },
+        "density": 0.0006170708042965192,
+        "normalized_density": 0.008073952554402856,
+        "score": 0.008073952554402856
+      },
+      "climate": {
+        "indicators": {
+          "temperature_mean": 24.8,
+          "humidity_mean": 74,
+          "precipitation_total": 41.3
+        },
+        "score": 0.533250937862526
+      },
+      "risk": {
+        "score": 0.1656270481468398
+      },
+      "recommendation": {
+        "risk_level": "baixo",
+        "recommendations": [
+          {
+            "id": 14,
+            "title": "Gestão de Entulho em Pequenas Reformas",
+            "message": "Armazene resíduos de construção civil sob lonas impermeáveis e bem esticadas durante reformas residenciais. Evite o acúmulo de sacos de ráfia e baldes no quintal, promovendo o descarte rápido via caçambas credenciadas junto à prefeitura local.",
+            "source": "Vigilância em Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.9265,
+            "semantic_score": 0.8065,
+            "context_bonus": 0.12,
+            "ranking_score": 0.9265
+          },
+          {
+            "id": 9,
+            "title": "Monitoramento de Lotes sem Edificação",
+            "message": "Proprietários de terrenos baldios limpos devem realizar vistorias mensais para impedir o descarte irregular de lixo por terceiros. O cercamento e a manutenção do solo capinado reduzem drasticamente as chances de surgimento de microfocos de mosquitos da dengue.",
+            "source": "Vigilância em Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.8935,
+            "semantic_score": 0.7935,
+            "context_bonus": 0.1,
+            "ranking_score": 0.8935
+          },
+          {
+            "id": 25,
+            "title": "Vistoria de Obras Paralisadas de Pequeno Porte",
+            "message": "Proprietários de construções paralisadas devem inspecionar a laje e os pavimentos periodicamente para remover focos em baldes ou poças. Cubra os fossos e proteja as áreas que possam reter água durante pancadas de chuva isoladas.",
+            "source": "Vigilância em Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.8775,
+            "semantic_score": 0.7775,
+            "context_bonus": 0.1,
+            "ranking_score": 0.8775
+          },
+          {
+            "id": 39,
+            "title": "Descarte de Potes de Comida para Animais de Rua",
+            "message": "Retire e descarte potes plásticos e recipientes improvisados colocados na rua para alimentar animais abandonados após o uso. A intenção de cuidado não pode resultar em potenciais focos do mosquito após o período de chuvas.",
+            "source": "Secretaria Estadual de Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.8769,
+            "semantic_score": 0.7769,
+            "context_bonus": 0.1,
+            "ranking_score": 0.8769
+          },
+          {
+            "id": 26,
+            "title": "Adoção de Práticas de Compostagem Segura",
+            "message": "Compostagens domésticas devem ser mantidas cobertas e com controle rigoroso de umidade para não gerar acúmulo de líquido livre. O manejo adequado transforma resíduos orgânicos sem criar ambientes favoráveis para mosquitos e pragas urbanas.",
+            "source": "Ministério da Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.8764,
+            "semantic_score": 0.7764,
+            "context_bonus": 0.1,
+            "ranking_score": 0.8764
+          }
+        ]
+      },
+      "reports": [
+        279,
+        278,
+        280,
+        273,
+        274,
+        275,
+        272,
+        267,
+        269,
+        265,
+        276,
+        263,
+        260,
+        258,
+        271,
+        264
+      ]
+    },
+    {
+      "id": 10,
+      "size": 44,
+      "centroid": {
+        "latitude": -12.224390473461254,
+        "longitude": -38.96118835644334
+      },
+      "area": 27991.20020109731,
+      "perimeter": 668.5025037347186,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.961290717124946,
+              -12.225414678951086
+            ],
+            [
+              -38.96235823631287,
+              -12.223815631070952
+            ],
+            [
+              -38.96084547042847,
+              -12.223574462354868
+            ],
+            [
+              -38.9602287,
+              -12.2242194
+            ],
+            [
+              -38.96064162254334,
+              -12.225207589688674
+            ],
+            [
+              -38.961290717124946,
+              -12.225414678951086
+            ]
+          ]
+        ]
+      },
+      "start_date": "2024-09-13",
+      "end_date": "2024-10-02",
+      "environmental": {
+        "counts": {
+          "vegetacao": 8,
+          "lixo": 17,
+          "entulho": 10,
+          "esgoto": 6,
+          "mosquito": 3
+        },
+        "frequencies": {
+          "vegetacao": 0.18181818181818182,
+          "lixo": 0.38636363636363635,
+          "entulho": 0.22727272727272727,
+          "esgoto": 0.13636363636363635,
+          "mosquito": 0.06818181818181818
+        },
+        "density": 0.0015719225929538782,
+        "normalized_density": 0.10149577007853276,
+        "score": 0.10149577007853276
+      },
+      "climate": {
+        "indicators": {
+          "temperature_mean": 23.805,
+          "humidity_mean": 73.15,
+          "precipitation_total": 89.99999999999997
+        },
+        "score": 0.6357790175859196
+      },
+      "risk": {
+        "score": 0.2617807443307488
+      },
+      "recommendation": {
+        "risk_level": "baixo",
+        "recommendations": [
+          {
+            "id": 14,
+            "title": "Gestão de Entulho em Pequenas Reformas",
+            "message": "Armazene resíduos de construção civil sob lonas impermeáveis e bem esticadas durante reformas residenciais. Evite o acúmulo de sacos de ráfia e baldes no quintal, promovendo o descarte rápido via caçambas credenciadas junto à prefeitura local.",
+            "source": "Vigilância em Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.9167,
+            "semantic_score": 0.7967,
+            "context_bonus": 0.12,
+            "ranking_score": 0.9167
+          },
+          {
+            "id": 27,
+            "title": "Descarte Consciente de Eletrodomésticos",
+            "message": "Encaminhe geladeiras, máquinas de lavar e eletrodomésticos velhos aos Ecopontos do município. Não abandone esses itens em vias públicas ou quintais, onde suas cavidades internas acumulam água e servem de criadouros perfeitos.",
+            "source": "Secretaria Estadual de Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.8693,
+            "semantic_score": 0.7693,
+            "context_bonus": 0.1,
+            "ranking_score": 0.8693
+          },
+          {
+            "id": 26,
+            "title": "Adoção de Práticas de Compostagem Segura",
+            "message": "Compostagens domésticas devem ser mantidas cobertas e com controle rigoroso de umidade para não gerar acúmulo de líquido livre. O manejo adequado transforma resíduos orgânicos sem criar ambientes favoráveis para mosquitos e pragas urbanas.",
+            "source": "Ministério da Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.8609,
+            "semantic_score": 0.7609,
+            "context_bonus": 0.1,
+            "ranking_score": 0.8609
+          },
+          {
+            "id": 9,
+            "title": "Monitoramento de Lotes sem Edificação",
+            "message": "Proprietários de terrenos baldios limpos devem realizar vistorias mensais para impedir o descarte irregular de lixo por terceiros. O cercamento e a manutenção do solo capinado reduzem drasticamente as chances de surgimento de microfocos de mosquitos da dengue.",
+            "source": "Vigilância em Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.8602,
+            "semantic_score": 0.7602,
+            "context_bonus": 0.1,
+            "ranking_score": 0.8602
+          },
+          {
+            "id": 39,
+            "title": "Descarte de Potes de Comida para Animais de Rua",
+            "message": "Retire e descarte potes plásticos e recipientes improvisados colocados na rua para alimentar animais abandonados após o uso. A intenção de cuidado não pode resultar em potenciais focos do mosquito após o período de chuvas.",
+            "source": "Secretaria Estadual de Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.8567,
+            "semantic_score": 0.7567,
+            "context_bonus": 0.1,
+            "ranking_score": 0.8567
+          }
+        ]
+      },
+      "reports": [
+        220,
+        218,
+        217,
+        214,
+        210,
+        208,
+        209,
+        207,
+        206,
+        205,
+        204,
+        201,
+        200,
+        192,
+        188,
+        189,
+        184,
+        185,
+        182,
+        179,
+        180,
+        178,
+        175,
+        173,
+        174,
+        169,
+        172,
+        168,
+        163,
+        162,
+        159,
+        158,
+        155,
+        156,
+        150,
+        161,
+        148,
+        153,
+        154,
+        149,
+        24,
+        167,
+        186,
+        187
+      ]
+    },
+    {
+      "id": 11,
+      "size": 36,
+      "centroid": {
+        "latitude": -12.249175546686146,
+        "longitude": -38.957863260070475
+      },
+      "area": 17789.362697464552,
+      "perimeter": 575.4185548337598,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38.95786285400391,
+              -12.250458176229783
+            ],
+            [
+              -38.95853329398147,
+              -12.248791125142134
+            ],
+            [
+              -38.95825982093812,
+              -12.248476591839427
+            ],
+            [
+              -38.958203494548805,
+              -12.248434653384674
+            ],
+            [
+              -38.9578253052792,
+              -12.248439894348007
+            ],
+            [
+              -38.95739346742631,
+              -12.24850018221731
+            ],
+            [
+              -38.95720839500428,
+              -12.248848795333386
+            ],
+            [
+              -38.95786285400391,
+              -12.250458176229783
+            ]
+          ]
+        ]
+      },
+      "start_date": "2024-09-26",
+      "end_date": "2024-09-27",
+      "environmental": {
+        "counts": {
+          "lixo": 16,
+          "entulho": 5,
+          "vegetacao": 3,
+          "mosquito": 8,
+          "esgoto": 2,
+          "alagamento": 2
+        },
+        "frequencies": {
+          "lixo": 0.4444444444444444,
+          "entulho": 0.1388888888888889,
+          "vegetacao": 0.08333333333333333,
+          "mosquito": 0.2222222222222222,
+          "esgoto": 0.05555555555555555,
+          "alagamento": 0.05555555555555555
+        },
+        "density": 0.0020236812645981375,
+        "normalized_density": 0.14569542146803016,
+        "score": 0.14569542146803016
+      },
+      "climate": {
+        "indicators": {
+          "temperature_mean": 23.65,
+          "humidity_mean": 75,
+          "precipitation_total": 58.200000000000024
+        },
+        "score": 0.5474046891628127
+      },
+      "risk": {
+        "score": 0.2662082017764649
+      },
+      "recommendation": {
+        "risk_level": "baixo",
+        "recommendations": [
+          {
+            "id": 14,
+            "title": "Gestão de Entulho em Pequenas Reformas",
+            "message": "Armazene resíduos de construção civil sob lonas impermeáveis e bem esticadas durante reformas residenciais. Evite o acúmulo de sacos de ráfia e baldes no quintal, promovendo o descarte rápido via caçambas credenciadas junto à prefeitura local.",
+            "source": "Vigilância em Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.9242,
+            "semantic_score": 0.8042,
+            "context_bonus": 0.12,
+            "ranking_score": 0.9242
+          },
+          {
+            "id": 39,
+            "title": "Descarte de Potes de Comida para Animais de Rua",
+            "message": "Retire e descarte potes plásticos e recipientes improvisados colocados na rua para alimentar animais abandonados após o uso. A intenção de cuidado não pode resultar em potenciais focos do mosquito após o período de chuvas.",
+            "source": "Secretaria Estadual de Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.8729,
+            "semantic_score": 0.7729,
+            "context_bonus": 0.1,
+            "ranking_score": 0.8729
+          },
+          {
+            "id": 9,
+            "title": "Monitoramento de Lotes sem Edificação",
+            "message": "Proprietários de terrenos baldios limpos devem realizar vistorias mensais para impedir o descarte irregular de lixo por terceiros. O cercamento e a manutenção do solo capinado reduzem drasticamente as chances de surgimento de microfocos de mosquitos da dengue.",
+            "source": "Vigilância em Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.8694,
+            "semantic_score": 0.7694,
+            "context_bonus": 0.1,
+            "ranking_score": 0.8694
+          },
+          {
+            "id": 40,
+            "title": "Vistoria em Obras de Infraestrutura Viária",
+            "message": "Empresas de engenharia devem manter poços de drenagem temporários e manilhas estocadas na horizontal para evitar o represamento de água da chuva. O canteiro de obras viárias deve possuir plano de controle de pragas ativo.",
+            "source": "Organização Mundial da Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.8617,
+            "semantic_score": 0.7617,
+            "context_bonus": 0.1,
+            "ranking_score": 0.8617
+          },
+          {
+            "id": 27,
+            "title": "Descarte Consciente de Eletrodomésticos",
+            "message": "Encaminhe geladeiras, máquinas de lavar e eletrodomésticos velhos aos Ecopontos do município. Não abandone esses itens em vias públicas ou quintais, onde suas cavidades internas acumulam água e servem de criadouros perfeitos.",
+            "source": "Secretaria Estadual de Saúde",
+            "risk_level": "baixo",
+            "similarity": 0.8589,
+            "semantic_score": 0.7589,
+            "context_bonus": 0.1,
+            "ranking_score": 0.8589
+          }
+        ]
+      },
+      "reports": [
+        142,
+        137,
+        133,
+        132,
+        126,
+        115,
+        112,
+        122,
+        111,
+        108,
+        114,
+        116,
+        109,
+        107,
+        91,
+        89,
+        83,
+        87,
+        85,
+        76,
+        79,
+        81,
+        75,
+        72,
+        74,
+        62,
+        60,
+        61,
+        59,
+        57,
+        56,
+        51,
+        48,
+        50,
+        49,
+        120
+      ]
+    }
+  ]
+}
